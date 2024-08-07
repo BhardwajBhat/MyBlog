@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://bhardwajbhat.github.io/blog/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://bhardwajbhat.github.io/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/riscy/intro/</loc>
+    <loc>https://bhardwajbhat.github.io/riscy/intro/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/markdown-syntax-guide/</loc>
+    <loc>https://bhardwajbhat.github.io/markdown-syntax-guide/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/riscy/</loc>
+    <loc>https://bhardwajbhat.github.io/riscy/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>

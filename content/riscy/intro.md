@@ -5,4 +5,4 @@ description = "Sample article showcasing basic Markdown syntax and formatting fo
 +++
 
 
-We'll talk abot stuff
+We'll talk abot stuff cpu and all

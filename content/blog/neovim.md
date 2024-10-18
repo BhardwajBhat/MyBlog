@@ -1,6 +1,6 @@
 +++
 title = "How I use Neovim"
-date = "2024-18-10"
+date = "2024-10-18"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 +++
 

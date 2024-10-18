@@ -12,5 +12,5 @@ I am interested in hardware-software iterface, FPGAs and Microarchitecture.
 
 
 ## Recent Posts
-* [Neovim](/neovim/)
+* [Neovim](/how-i-use-neovim/)
 * [CPU Basics](/riscy/intro)
